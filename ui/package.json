@@ -8,6 +8,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@scality/core-ui": "github:scality/core-ui.git#v0.6.0",
+    "@scality/core-ui": "github:scality/core-ui.git#v0.6.0"
   }
 }
